@@ -1,0 +1,243 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:darkslategrey;
+    overflow-x: hidden;
+}
+
+#task1{
+    position: absolute;
+    padding: 10px 10px 10px 10px;
+    left: 35%;
+    top: 100px;
+    width: 300px;
+    background-color: cornsilk;
+}
+.hea{
+    position: absolute;
+    left: 44%;
+    top: 20px;
+    color: paleturquoise;
+}
+.button12{
+    position: absolute;
+    left: 60%;
+    top: 16%;
+    padding: 10px 5px 10px 5px;
+    background-color: peru;
+}
+#task2{
+    position: absolute;
+    left: 55%;
+    top: 25%;
+    padding: 5px 5px 5px 5px;
+    white-space: 20px;
+    
+
+}
+.text{
+    position: absolute;
+    font-size: 30px;
+    left: 10%;
+    padding-top: 10px;
+    top: 65%;
+    color: goldenrod;
+}
+.form1{
+    position:absolute;
+    border: 10px 10px 10x 10px;
+    background-color: rgba(21, 176, 196, 0.233);
+    border-style: groove;
+    margin: 60px;
+    padding: 160px;
+    width: 15%;
+    border-width: 10px;
+    top: 40%;
+    
+}
+
+.place{
+    position: relative;
+    padding: 10px;
+    right: 90px;
+}
+.place1{
+    position: relative;
+    padding: 10px;
+    right: 90px;
+    top:40px;
+    background-color: rgba(226, 95, 43, 0.719);
+}
+#font1{
+    position:absolute;
+    border: 40px 20px 100px;
+    background-color: aqua;
+    padding: 40px;
+    width: 85%;
+    top: 900px;
+    left: 60px;
+}
+.text2{
+    position: absolute;
+    color: burlywood;
+    top: 800px;
+    left: 60px;
+}
+
+#font3{
+    position: absolute;
+    border: 40px 20px 100px;
+    padding: 40px 530px 25px;
+    top: 1100px;
+    background-color: chocolate;
+    left: 60px;
+}
+.text3{
+    position: absolute;
+    color: burlywood;
+    top: 1020px;
+    left: 60px;
+}
+.form2{
+    position: absolute;
+    top: 1300px;
+    left: 50px;
+    padding: 10px;
+    
+
+}
+.place2{
+    position: relative;
+    padding: 20px 20px 10px;
+    background-color: cornsilk;
+}
+.form3{
+    position: absolute;
+    top: 1300px;
+    left: 500px;
+    padding: 10px;
+    
+
+}
+.place3{
+    position: relative;
+    padding: 20px 20px 10px;
+    background-color: cornsilk;
+}
+.form4{
+    position: absolute;
+    top: 1300px;
+    left: 950px;
+    padding: 10px;
+    
+
+}
+.place4{
+    position: relative;
+    padding: 20px 20px 10px;
+    background-color: cornsilk;
+}
+.form5{
+    position: absolute;
+    top: 1500px;
+    left: 60px;
+    padding: 10px 485px 20px;
+    background-color: rgba(226, 208, 43, 0.712);
+
+}
+.text7{
+    position: absolute;
+    color: black;
+    top: 1450px;
+    left: 60px;
+} 
+.text8{
+    position: absolute;
+    color: black;
+    top: 1580px;
+    left: 60px;
+}
+.form6{
+    position: absolute;
+    top: 1605px;
+    left: 50px;
+    padding: 10px ;
+    
+
+}
+.place5{
+    position: relative;
+    padding: 20px 475px 10px;
+    background-color: cornsilk;
+}
+.text9{
+    position: absolute;
+    color: black;
+    top: 1700px;
+    left: 62px;
+}
+.form7{
+    position: absolute;
+    top: 1725px;
+    left: 55px;
+    padding: 10px ;
+    
+
+}
+.place6{
+    position: relative;
+    padding: 20px 475px 10px;
+    background-color: rgb(220, 255, 226);
+}
+.border5{
+    position: absolute;
+    border: 10px;
+    border-style: solid;
+    margin: 60px;
+    padding: 40px 555px;
+     height: 100px;
+    border-width: 8px;
+    top: 1850px;
+    left: 10px;
+    background-color: rgb(34, 34, 122);
+    
+}
+.border6{
+    position: absolute;
+    border: 10px;
+    border-style: solid;
+    margin: 50px;
+    padding: 30px 535px 20px;
+     height: 95px;
+    border-width: 8px;
+    top: 1880px;
+    left: 40px;
+    color: cornflowerblue;
+    
+}
+.last{
+    position: absolute;
+    top: 1850px;
+    left: 70px;
+}
+.border7{
+    position: absolute;
+    top: 1982px;
+    left: 170px;
+    font-size: 20px;
+    color: rgb(2, 2, 2);
+}
+.border8{
+    position: absolute;
+    top: 1982px;
+    left: 500px;
+    font-size: 20px;
+    color: rgb(2, 2, 2);
+}
+.border9{
+    position: absolute;
+    top: 1982px;
+    left: 900px;
+    font-size: 20px;
+    color: rgb(2, 2, 2);
+}
